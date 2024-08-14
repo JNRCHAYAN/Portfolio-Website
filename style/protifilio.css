@@ -95,4 +95,15 @@ main
 }
 .about-info-container{
     display: flex;
+    justify-content: space-around;
+}
+.info-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-dec
+{
+    font-size: 20px;
+    color: #474747;
+    font-weight: 700;
 }
