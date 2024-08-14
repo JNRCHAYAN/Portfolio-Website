@@ -77,12 +77,12 @@ main
     margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
+    text-align: center;
     padding: 130px 150px;
 
 
 }
 .section-title{
-    text-align: center;
     margin-bottom: 30px;
     font-size: 40px;
     font-weight: 800;
@@ -92,6 +92,7 @@ main
 .section-dec{
     color: #757575;
     font-size: 18px;
-    text-align: justify;
-
+}
+.about-info-container{
+    display: flex;
 }
