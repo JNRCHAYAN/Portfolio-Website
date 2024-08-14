@@ -108,3 +108,11 @@ main
     color: #474747;
     font-weight: 700;
 }
+.What-i-do
+{
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    text-align: center;
+    padding: 130px 150px;
+}
