@@ -92,6 +92,7 @@ main
 .section-dec{
     color: #757575;
     font-size: 18px;
+    margin-bottom: 20px;
 }
 .about-info-container{
     display: flex;
@@ -103,7 +104,7 @@ main
 }
 .info-dec
 {
-    font-size: 20px;
+    font-size: 15px;
     color: #474747;
     font-weight: 700;
 }
