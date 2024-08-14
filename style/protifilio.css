@@ -22,10 +22,13 @@
 .text-primary{
     color: #FD6E0A;
 }
+.header{
+    background-color: #FFF8F3;
+}
 nav{
     display: flex ;
     justify-content: space-between ;
-    margin: 50px 200px;
+    margin: 50px 100px;
 }
 nav ul{
     display: flex;
@@ -36,4 +39,24 @@ nav li{
     list-style: none;
     margin-left: 50px;
 }
+.banner{
+    display: flex;
+    align-items: center;
+    margin: 50px 100px;
+}
+.banner-title{
+font-size: 50px;
+font-weight: 700;
+margin-bottom: 10px;
 
+}
+.banner-subtitle{
+    font-size: 45px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.banner-dec{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+}
