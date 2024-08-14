@@ -68,3 +68,30 @@ margin-bottom: 10px;
     width: 660px;
     height: 940px;
 }
+main
+{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+
+
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 40px;
+    font-weight: 800;
+
+
+}
+.section-dec{
+    color: #757575;
+    font-size: 18px;
+    text-align: justify;
+
+}
