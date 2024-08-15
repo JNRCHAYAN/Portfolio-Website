@@ -73,12 +73,17 @@ main
     max-width: 1140px;
     margin: 0 auto;
 }
+section
+{
+    margin-top: 130px;
+}
 .about{
     margin-top: 130px;
     background: #FFF8F3;
     border-radius: 10px;
     text-align: center;
     padding: 130px 150px;
+    margin-bottom: 50px;
 
 
 }
@@ -111,7 +116,7 @@ main
 }
 .What-i-do
 {
-    margin-top: 130px;
+    
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
