@@ -174,3 +174,13 @@ section
     margin-top: 50px;
     text-align: center;
 }
+.contact
+{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 50px 100px;
+}
+.contact .section-title{
+    text-align: left;
+}
