@@ -43,7 +43,7 @@
 }
 nav{
     display: flex ;
-    justify-content: space-between ;
+    justify-content: left ;
     padding: 50px 200px;
 }
 nav ul{
